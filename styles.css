@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300');
+
+
+
+
+
+
+
+
+.text-ru{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 28px;
+	
+}
+
+
+
+.pz{
+	font-family: Montserrat;
+	font-size: 48px;
+	color:white;
+	font-weight: bold;
+    text-align: center;
+}
+
+.h0{
+	color:#6699cc;
+	font-family: Century Gothic;
+	font-size: 80px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.back{
+	background-color: rgba(0,0,0,0.7);
+}
+
+
+
+
+
+
+
+body{
+	margin: 0;	
+	padding: 0;	
+	background-color: #424242;
+}
+
+html{
+	margin: 0;	
+	padding: 0;	
+}
+.container{
+	display: inline-block;
+	
+}
+
